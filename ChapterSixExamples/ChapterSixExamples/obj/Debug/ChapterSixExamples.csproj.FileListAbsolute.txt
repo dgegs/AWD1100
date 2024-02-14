@@ -1,0 +1,10 @@
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\bin\Debug\ChapterSixExamples.exe.config
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\bin\Debug\ChapterSixExamples.exe
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\bin\Debug\ChapterSixExamples.pdb
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\obj\Debug\ChapterSixExamples.csproj.AssemblyReference.cache
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\obj\Debug\ChapterSixExamples.Form1.resources
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\obj\Debug\ChapterSixExamples.Properties.Resources.resources
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\obj\Debug\ChapterSixExamples.csproj.GenerateResource.cache
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\obj\Debug\ChapterSixExamples.csproj.CoreCompileInputs.cache
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\obj\Debug\ChapterSixExamples.exe
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ChapterSixExamples\obj\Debug\ChapterSixExamples.pdb

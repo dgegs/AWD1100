@@ -1,0 +1,10 @@
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\bin\Debug\ReturnSumExample.exe.config
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\bin\Debug\ReturnSumExample.exe
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\bin\Debug\ReturnSumExample.pdb
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\obj\Debug\ReturnSumExample.csproj.AssemblyReference.cache
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\obj\Debug\ReturnSumExample.Form1.resources
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\obj\Debug\ReturnSumExample.Properties.Resources.resources
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\obj\Debug\ReturnSumExample.csproj.GenerateResource.cache
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\obj\Debug\ReturnSumExample.csproj.CoreCompileInputs.cache
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\obj\Debug\ReturnSumExample.exe
+C:\Users\dgegs\Documents\GitHub\AWD1100\ChapterSixExamples\ReturnSumExample\obj\Debug\ReturnSumExample.pdb
